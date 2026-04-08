@@ -3,7 +3,7 @@ pkgver=0.9.10
 pkgrel=1
 pkgdesc="Desktop AI agent for OpenClaw with bundled gateway runtime"
 arch=('x86_64' 'aarch64')
-url="https://github.com/NiceAIGC/NiceClaw"
+url="https://claw.nicerouter.com/"
 license=('AGPL-3.0-or-later')
 depends=(
   'at-spi2-core'
