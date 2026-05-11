@@ -1,6 +1,6 @@
 pkgbase = niceclaw
 	pkgdesc = Desktop AI agent for OpenClaw with bundled gateway runtime
-	pkgver = 0.9.507
+	pkgver = 0.9.509
 	pkgrel = 1
 	url = https://claw.nicerouter.com/
 	arch = x86_64
@@ -17,9 +17,9 @@ pkgbase = niceclaw
 	depends = xdg-utils
 	optdepends = libappindicator-gtk3: tray indicator support on some desktop environments
 	options = !strip
-	source_x86_64 = niceclaw-0.9.507-x86_64.deb::https://pan.feidu.fit/d/%E5%BC%80%E5%8F%91/tmp/NiceClaw-0.9.507-amd64-linux.deb
-	sha512sums_x86_64 = f3cfdc0264094ae689038ef03056ab860c7e87c8f981680d5b73b295afdc278bff4eff709695440d676fd35482ad4de5896e3898cbbdc8fd03c16313bf1a5329
-	source_aarch64 = niceclaw-0.9.507-aarch64.deb::https://pan.feidu.fit/d/%E5%BC%80%E5%8F%91/tmp/NiceClaw-0.9.507-arm64-linux.deb
-	sha512sums_aarch64 = a9e5a5710492d16a3c00f7439212f873babe0087daefee00722bdcd33b6494961f0e549720a1cf98cac83d0d23792ff9d94b0c30953a096b9b3625a20a3c709b
+	source_x86_64 = niceclaw-0.9.509-x86_64.deb::https://pan.feidu.fit/d/%E5%BC%80%E5%8F%91/tmp/NiceClaw-0.9.509-amd64-linux.deb
+	sha512sums_x86_64 = 05e31071b13ad8868af23215aed6e63f52c311c0711459c5aa90efc437c349dd817ce48341c7d741e8df4d349f1da599ce96212e02efe21ab8e1dc8acc66ea99
+	source_aarch64 = niceclaw-0.9.509-aarch64.deb::https://pan.feidu.fit/d/%E5%BC%80%E5%8F%91/tmp/NiceClaw-0.9.509-arm64-linux.deb
+	sha512sums_aarch64 = 950787f505d53129552d0b522de5e4c40123c5d6f3e3cbec46581a55cec7c8c599420293cc12a07da7527722f8d30d901fdb869072bb398b43a333ba6f168cd2
 
 pkgname = niceclaw
