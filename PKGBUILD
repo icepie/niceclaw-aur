@@ -1,5 +1,5 @@
 pkgname=niceclaw
-pkgver=0.9.509
+pkgver=0.9.512
 pkgrel=1
 pkgdesc="Desktop AI agent for OpenClaw with bundled gateway runtime"
 arch=('x86_64' 'aarch64')
@@ -25,10 +25,10 @@ source_aarch64=(
   "niceclaw-${pkgver}-aarch64.deb::https://pan.feidu.fit/d/%E5%BC%80%E5%8F%91/tmp/NiceClaw-${pkgver}-arm64-linux.deb"
 )
 sha512sums_x86_64=(
-  '05e31071b13ad8868af23215aed6e63f52c311c0711459c5aa90efc437c349dd817ce48341c7d741e8df4d349f1da599ce96212e02efe21ab8e1dc8acc66ea99'
+  '7f84e1af2606b783a5adb9868cad0c9dce58b4d09788cc524a2e9e771c32028c7ca070570b3ef4f25957be9675d5fd176be096359820751742b93c2fac8b5540'
 )
 sha512sums_aarch64=(
-  '950787f505d53129552d0b522de5e4c40123c5d6f3e3cbec46581a55cec7c8c599420293cc12a07da7527722f8d30d901fdb869072bb398b43a333ba6f168cd2'
+  '27c56ba3e8373031577af299a27d9325f5d49c7f1db49e386aa8a66d722e42ab1dbe3000b6a32beaca7d998a2329f46af5aecd12f4f6cafd231c34c6b961d423'
 )
 
 package() {
